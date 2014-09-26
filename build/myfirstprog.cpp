@@ -1,6 +1,6 @@
+#include <iostream>
 int main()
 {
-cout << "Oh yea here we are";
-string myone[];
-return 0
+std :: cout << "Oh yea here we are";
+return(0);
 }
